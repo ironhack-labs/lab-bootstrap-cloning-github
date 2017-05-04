@@ -4,7 +4,7 @@
 
 ## Introduction
 
-In this lesson we are going to create our own "Bootstrap version" of GitHub. We will recreate the **Issues** page for Airbnb's CSS repository on GitHub using only Bootstrap styles and components.
+In this lesson we are going to create our own "Bootstrap version" of GitHub. We will recreate the **Issues** page for Airbnb's CSS repository on GitHub using only Bootstrap styles and components. See the original on GitHub: https://github.com/airbnb/css/issues.
 
 At the end of the lesson, your GitHub will look something like this:
 
